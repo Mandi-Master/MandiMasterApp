@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294275296564",
+    "project_id": "mandimaster-29561",
+    "storage_bucket": "mandimaster-29561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294275296564:android:62c0c4f726e4d1e7068961",
+        "android_client_info": {
+          "package_name": "com.example.mandimaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294275296564-ob6sej1u4drreno5p9r14ruljhkiog9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmuA5N-AlFLnw1IxyEwPwQrfsN5_5lFDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294275296564-ob6sej1u4drreno5p9r14ruljhkiog9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
